@@ -3,7 +3,7 @@
 #include "function.h"
 
 int IsEmpty( List L );
-void Find( char X[], List L );;
+void Find( char X[], List L );
 void Create( char X[], List L, Position P );
 void PrintList( const List L );
 void addbeg(List L, char X[]);
