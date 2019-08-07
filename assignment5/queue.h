@@ -24,8 +24,8 @@ void create(node *h1, node *r1, node *h2, node *r2)
     float wt2=0;
     char id[5];
     float bt;
-    int c1=0;
-    int c2=0;
+    int c1=1;
+    int c2=1;
     t1=(node*)malloc(sizeof(node));
     t2=(node*)malloc(sizeof(node));
     while(ch2)
